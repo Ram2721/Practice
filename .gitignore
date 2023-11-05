@@ -1,0 +1,3 @@
+# Exclude node_modules but include package.json
+node_modules/
+!package.json
